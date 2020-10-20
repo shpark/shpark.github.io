@@ -125,9 +125,9 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Park
 
-  style: apa
+  style: acm-sig-proceedings
   locale: en
 
   source: /_bibliography/
