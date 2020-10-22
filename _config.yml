@@ -41,6 +41,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: shpark # your GitHub user name
 twitter_username: shp4rk # your Twitter handle
+keybase_username: shpark1 # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -51,7 +52,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can reach me online with the links above
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
