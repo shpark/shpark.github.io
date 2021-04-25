@@ -24,7 +24,14 @@ body.sticky-bottom-footer { padding-bottom: 0; }
 * Projects
 *****************************************************************************/
 /******************************************************************************* Styles for the base elements of the theme. *****************************************************************************/
-body { font-family: Hack; }
+
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+/* body { font-family: Hack; } */
 
 a, table.table a { color: var(--global-theme-color); }
 a:hover, table.table a:hover { color: var(--global-theme-color); text-decoration: underline; }
